@@ -19,3 +19,7 @@ Converting high-dimensional data to low-dimensional vectors/codes effectively th
 3. Without pretraining, the very deep auto-
 encoder always reconstructs the average of the
 training data.
+
+**Notes**
+
+A nice introduction to autoencoders, which will later form the basis of unsupervised learning of some sort and would be used in variety of learning-based data compression techniques.
