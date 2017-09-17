@@ -6,7 +6,7 @@
 
 Converting high-dimensional data to low-dimensional vectors/codes effectively that can be used to reconstruct the original data.
 
-**Contributions**
+**Key points**
 
 1. The authors introduce a neural net based approach for dimensionality reduction.
 2. The concept of 'Autoencoders' is introduced, where an encoder-decoder architecture is used to first reduce the dimensionality of input data and then used to reconstruct the original high-dimension data with the encoded representation.

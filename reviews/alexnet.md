@@ -4,7 +4,7 @@
 
 ILSVRC (ImageNet Large Scale Visual Recognition Challenge) - Image classification for over a million images into 1000 object classes.
 
-**Contributions**
+**Key points**
 
 1. Authors introduce a deep convolutional neural network for the task of image classification, achieving best results on ILSVRC and popularizing ConvNets for various computer vision problems.
 2. They propose an 8-layer architecture comprising of 5 convolutional and 3 fully connected layers, excluding the non-weighted layers.

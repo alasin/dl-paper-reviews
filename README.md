@@ -12,3 +12,9 @@ Summaries and reviews of interesting deep learning papers.
 Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) - [Review](reviews/alexnet.md)
   * Alex Krizhevsky, Ilya Sutskever and Geoffrey E. Hinton
   * NIPS
+
+**2015:**
+
+* [Going Deeper with Convolutions](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) - [Review](reviews/googlenet.md)
+  * Szegedy, Christian, et al.
+  * CVPR
