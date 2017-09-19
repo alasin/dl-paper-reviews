@@ -18,3 +18,8 @@ Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-d
 * [Going Deeper with Convolutions](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) - [Review](reviews/googlenet.md)
   * Szegedy, Christian, et al.
   * CVPR
+
+* [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf) - [Review](reviews/vggnet.md)
+  * Karen Simonyan and Andrew Zisserman
+  * ICLR
+ 
