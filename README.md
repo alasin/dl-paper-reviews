@@ -29,3 +29,8 @@ Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-d
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren and Jian Sun (Microsoft Research)
   * CVPR
  
+ **2017:**
+
+ * [Unsupervised Representation Learning by Sorting Sequences](http://vllab1.ucmerced.edu/~hylee/publication/ICCV17_OPN.pdf) - [Review](reviews/unsupervised-seq-sort.md)
+   * Hsin-Ying Lee, Jia-Bin Huang, Maneesh Singh, Ming-Hsuan Yang
+   * ICCV
