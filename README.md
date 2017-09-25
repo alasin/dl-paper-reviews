@@ -31,6 +31,10 @@ Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-d
  
  **2017:**
 
- * [Unsupervised Representation Learning by Sorting Sequences](http://vllab1.ucmerced.edu/~hylee/publication/ICCV17_OPN.pdf) - [Review](reviews/unsupervised-seq-sort.md)
-   * Hsin-Ying Lee, Jia-Bin Huang, Maneesh Singh, Ming-Hsuan Yang
+* [Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution](http://vllab1.ucmerced.edu/~wlai24/LapSRN/papers/cvpr17_LapSRN.pdf) - [Review](reviews/lap-srn.md)
+  * Wei-Shang Lai, Jia-Bin Huang, Narendra Ahuja and Ming-Hsuan Yang
+  * CVPR
+ 
+* [Unsupervised Representation Learning by Sorting Sequences](http://vllab1.ucmerced.edu/~hylee/publication/ICCV17_OPN.pdf) - [Review](reviews/unsupervised-seq-sort.md)
+   * Hsin-Ying Lee, Jia-Bin Huang, Maneesh Singh and Ming-Hsuan Yang
    * ICCV
