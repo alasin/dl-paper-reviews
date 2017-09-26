@@ -28,6 +28,10 @@ Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-d
 * [Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) - [Review](reviews/resnet.md)
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren and Jian Sun (Microsoft Research)
   * CVPR
+
+* [Scene Structure Inference through Scene Map Estimation](http://geometry.cs.ucl.ac.uk/projects/2016/scenemap/paper_docs/scenemap.pdf) - [Review](reviews/scene-map.md)
+  * Moos Hueting, Virica Patraucean, Maks Ovsjanikov and Niloy J. Mitra
+  * VMV
  
  **2017:**
 
