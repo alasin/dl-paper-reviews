@@ -27,5 +27,5 @@ Unsupervised representation learning using videos. Modeling this problem as a se
 
 1. Easy to understand paper with a novel approach.
 2. Doesn't talk about patch size < 80 and its effect on performance.
-3. No intuition about why different strategies for color splitting perform better or worse over the rest.
+3. No intuition about why different strategies for color splitting perform better or worse over the rest. Neat technique though to explicitly force the network.
 4. Choice of number of frames (3-4) seems arbitrary. Performance effects with a more number of frames should have been measured. 
