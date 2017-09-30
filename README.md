@@ -13,6 +13,13 @@ Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-d
   * Alex Krizhevsky, Ilya Sutskever and Geoffrey E. Hinton
   * NIPS
 
+**2014:**
+
+* [How transferable are features in deep neural
+networks?](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf) - [Review](reviews/transferability.md)
+  * Jason Yosinski, Jeff Clune, Yoshua Bengio and Hod Lipson
+  * NIPS
+
 **2015:**
 
 * [Going Deeper with Convolutions](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) - [Review](reviews/googlenet.md)
