@@ -8,7 +8,7 @@ Convolutional Neural Networks based single-image super-resolution.
 
 1. Authors propose a Laplacian Pyramid Super-Resolution Network (LapSRN) that takes a low-res (LR) image as input and progressively generates residuals at different scales for high-res (HR) images. It comprises of a feature extraction and a image reconstruction branch.
 
-![Architecture](http://vllab1.ucmerced.edu/~wlai24/LapSRN/images/network.jpg)
+![Architecture](http://vllab.ucmerced.edu/wlai24/LapSRN/images/network.jpg)
 
 2. The output of each *deconv* layer is connected to a conv layer for reconstructing HR image, and for further in feature extraction for higher layers.
 
