@@ -49,3 +49,8 @@ networks?](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-dee
 * [Unsupervised Representation Learning by Sorting Sequences](http://vllab1.ucmerced.edu/~hylee/publication/ICCV17_OPN.pdf) - [Review](reviews/unsupervised-seq-sort.md)
    * Hsin-Ying Lee, Jia-Bin Huang, Maneesh Singh and Ming-Hsuan Yang
    * ICCV
+
+* [Multi-Task Learning Using Uncertainty to Weigh
+Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf) - [Review](reviews/multi-task-learning.md)
+    * Alex Kendall, Yarin Gal and Roberto Cipolla
+    * ArXiv preprint
