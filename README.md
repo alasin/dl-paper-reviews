@@ -54,3 +54,7 @@ networks?](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-dee
 Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf) - [Review](reviews/multi-task-learning.md)
     * Alex Kendall, Yarin Gal and Roberto Cipolla
     * ArXiv preprint
+
+* [Decomposing Motion and Content for Natural Video Sequence Prediction](https://openreview.net/pdf?id=rkEFLFqee) - [Review](reviews/decompose-motion-content.md)
+    * Ruben Villegas, Jimei Yang, Seunghoon Hong, Xunyu Lin and Honglak Lee
+    * ICLR
