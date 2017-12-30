@@ -59,6 +59,6 @@ Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf) -
     * Ruben Villegas, Jimei Yang, Seunghoon Hong, Xunyu Lin and Honglak Lee
     * ICLR
 
-* [Assocaitive Domain Adaptation]() - [Review](reviews/assoc-domain-adaptation.md)
+* [Associative Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Haeusser_Associative_Domain_Adaptation_ICCV_2017_paper.pdf) - [Review](reviews/assoc-domain-adaptation.md)
     * Philip Haeusser, Thomas Frerix, Alexander Mordvintsev and Daniel Cremers
     * ICCV
