@@ -58,3 +58,7 @@ Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf) -
 * [Decomposing Motion and Content for Natural Video Sequence Prediction](https://openreview.net/pdf?id=rkEFLFqee) - [Review](reviews/decompose-motion-content.md)
     * Ruben Villegas, Jimei Yang, Seunghoon Hong, Xunyu Lin and Honglak Lee
     * ICLR
+
+* [Assocaitive Domain Adaptation]() - [Review](reviews/assoc-domain-adaptation.md)
+    * Philip Haeusser, Thomas Frerix, Alexander Mordvintsev and Daniel Cremers
+    * ICCV
