@@ -12,7 +12,8 @@ Future frame prediction in natural video sequences.
         * Element-wise consecutive frame difference.
         * Motion encoding feature tensor of last frame.
         * Memory cell observed through time till last frame.
-    and outputs
+    
+       and outputs
         * Motion encoding feature tensor of current frame.
         * Memory cell observed through time till current frame.
     * Content encoder is modeled as a simple CNN which outputs content encoding feature tensor of current frame.
