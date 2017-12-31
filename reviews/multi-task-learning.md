@@ -9,13 +9,10 @@ How to weigh multiple losses when doing multi-task deep learning
 1. Introduce the concept of *Homoscedastic Uncertainty* - a task dependent uncertainty that's not dependent on input data and is not a model output, for measuring the uncertainty of each vision task.
 2. Formulate the total loss of multiple tasks as:
 
-![Loss](../images/mlt.png)
-
+    ![Loss](../images/mlt.png)
 where:
-
-![Regression](../images/regression.png)
-![Classification](../images/class.png)
-
+    ![Regression](../images/regression.png)
+    ![Classification](../images/class.png)
 3. `log(sigma*sigma)` empirically found to converge within 100 iterations when initialized from -2 to 5.
 
 
