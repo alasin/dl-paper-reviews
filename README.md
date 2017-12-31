@@ -62,3 +62,7 @@ Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf) -
 * [Associative Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Haeusser_Associative_Domain_Adaptation_ICCV_2017_paper.pdf) - [Review](reviews/assoc-domain-adaptation.md)
     * Philip Haeusser, Thomas Frerix, Alexander Mordvintsev and Daniel Cremers
     * ICCV
+
+* [Unsupervised Learning of Depth and Ego-Motion from Video](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Unsupervised_Learning_of_CVPR_2017_paper.pdf) - [Review](reviews/sfm-learner.md)
+    * Tinghui Zhou, Matthew Brown, Noah Snavely and David G. Lowe
+    * CVPR
