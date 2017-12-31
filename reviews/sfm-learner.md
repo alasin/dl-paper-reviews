@@ -7,12 +7,12 @@ Ego-motion prediction from videos and depth estimation from single images.
 **Key points**
 
 1. Authors propose an end-to-end learning framework that estimates monocular depth and camera motion from video sequences that uses view synthesis as the supervisory signal.
-2. The view synthesis loss is formulated as an L1 loss between target image and warped sourge images (authors use 2 source views and 1 target view).
+2. The view synthesis loss is formulated as an L1 loss between target image and warped sourge images (authors use 2 source views and 1 target view for training).
 3. Use bilinear interpolation to differentiably render the target view using predicted transformation parameters, camera intrinsics, source image and predicted depth maps.<br>
     ![warp](../images/sfm-learner.png)
-4. Model the inconsistencies and occlusions between different views through a pixel-level explainability mask which weighs the pixel depending on the objects. To avaoid a trivial zero solution, a regularization term is added to encourage non-zero values in the mask.
+4. Model the inconsistencies and occlusions between different views through a pixel-level explainability mask which weighs the pixel depending on the objects. To avoid a trivial zero solution, a regularization term is added to encourage non-zero values in the mask.
 5. Disparity smoothness is enforced by penalizing less on texture-less regions and more on sharp regions.
-6. Depth maps generated are not to scale, so they scale w.r.t the median of ground truth.
+6. Depth maps generated are not to scale, so authors scale predicitons w.r.t the median of ground truth.
 ![network](../images/sfm-learner-net.png)
 
 **Results**
