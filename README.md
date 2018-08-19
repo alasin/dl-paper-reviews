@@ -40,7 +40,7 @@ networks?](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-dee
   * Moos Hueting, Virica Patraucean, Maks Ovsjanikov and Niloy J. Mitra
   * VMV
 
-* [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/abs/1612.00222) - [Review](reviews/in.nd)
+* [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/abs/1612.00222) - [Review](reviews/in.md)
   * Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende and Koray Kavukcuoglu
   * NIPS
  
