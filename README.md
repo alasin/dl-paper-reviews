@@ -39,6 +39,10 @@ networks?](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-dee
 * [Scene Structure Inference through Scene Map Estimation](http://geometry.cs.ucl.ac.uk/projects/2016/scenemap/paper_docs/scenemap.pdf) - [Review](reviews/scene-map.md)
   * Moos Hueting, Virica Patraucean, Maks Ovsjanikov and Niloy J. Mitra
   * VMV
+
+* [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/abs/1612.00222) - [Review](reviews/in.nd)
+  * Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende and Koray Kavukcuoglu
+  * NIPS
  
  **2017:**
 
