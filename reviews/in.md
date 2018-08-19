@@ -22,7 +22,7 @@ The authors present a learnable framework called Interaction Network (IN) for mo
 
 2. IN is also able to deduce abstract system properties like potential energy by extending their proposed approach.
 
-3. IN also shows good results for experiement settings that it wasnt trained for, like using different number of balls at test time compared to fixed number at train time. This can be attributed to its delienation of object and relation functions.
+3. IN also shows good results for experiement settings that it wasnt trained for, like using different number of balls at test time compared to fixed number at train time. This can be attributed to its delineation of object and relation functions.
 
 **Notes**
 
