@@ -70,3 +70,8 @@ Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf) -
 * [Unsupervised Learning of Depth and Ego-Motion from Video](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Unsupervised_Learning_of_CVPR_2017_paper.pdf) - [Review](reviews/sfm-learner.md)
     * Tinghui Zhou, Matthew Brown, Noah Snavely and David G. Lowe
     * CVPR
+
+**2018:**
+* [DDRNet: Depth Map Denoising and Refinement for Consumer Depth Cameras Using Cascaded CNNs](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shi_Yan_DDRNet_Depth_Map_ECCV_2018_paper.pdf) - [Review](reviews/ddrnet.md)
+    * Shi Yan, Chenglei Wu, Lizhen Wang, Feng Xu, Liang An, Kaiwen Guo and Yebin Liu
+    * ECCV
