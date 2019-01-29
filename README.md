@@ -75,3 +75,21 @@ Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf) -
 * [DDRNet: Depth Map Denoising and Refinement for Consumer Depth Cameras Using Cascaded CNNs](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shi_Yan_DDRNet_Depth_Map_ECCV_2018_paper.pdf) - [Review](reviews/ddrnet.md)
     * Shi Yan, Chenglei Wu, Lizhen Wang, Feng Xu, Liang An, Kaiwen Guo and Yebin Liu
     * ECCV
+
+
+
+**--To Read--:**
+* [Learning Category-Specific Mesh Reconstruction from Image Collections](https://akanazawa.github.io/cmr/) - [Review]()
+    * Angjoo Kanazawa, Shubham Tulsiani, Alexei A. Efros and Jitendra Malik
+    * ECCV 2018
+
+* [Learning to Zoom: a Saliency-Based Sampling Layer for Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Adria_Recasens_Learning_to_Zoom_ECCV_2018_paper.pdf) - [Review]()
+    * Adria Recasens, Petr Kellnhofer, Simon Stent, Wojciech Matusik, and Antonio Torralba
+    * ECCV 2018
+
+* [Tracking Emerges by Colorizing Videos](https://arxiv.org/pdf/1806.09594.pdf) - [Review]()
+    * Carl Vondrick, Abhinav Shrivastava, Alireza Fathi, Sergio Guadarrama and Kevin Murphy
+    * ECCV 2018
+
+
+
