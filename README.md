@@ -76,6 +76,10 @@ Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf) -
     * Shi Yan, Chenglei Wu, Lizhen Wang, Feng Xu, Liang An, Kaiwen Guo and Yebin Liu
     * ECCV
 
+* [Deep Depth Completion of a Single RGB-D Image](https://arxiv.org/abs/1803.09326) - [Review](reviews/ddcompletion.md)
+    * Yinda Zhang and Thomas Funkhouser
+    * CVPR
+
 
 
 **--To Read--:**
