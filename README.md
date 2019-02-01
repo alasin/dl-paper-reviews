@@ -34,6 +34,11 @@ networks?](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-dee
   * Ross Girshick, Jeff Donahue, Trevor Darrell and Jitendra Malik
   * TPAMI
 
+* [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) - [Review](reviews/fast-rcnn.md)
+  * Ross Girshick
+  * ICCV
+
+  
 **2016:**
 
 * [Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) - [Review](reviews/resnet.md)
